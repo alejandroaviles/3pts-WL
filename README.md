@@ -14,6 +14,8 @@ This code uses the
 ## Authors: 
 
 - Alejandro Aviles (ICF-UNAM, Mexico), avilescervantes@gmail.com
-- Mario A. Rodriguez-Meza (ININ, Mexico), marioalberto.rodriguezmeza@gmail.com
+
+
+
 
 
