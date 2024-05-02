@@ -1,7 +1,7 @@
 # 3pts-WL
-Compute 3-point correlation functions for galaxy WL convergence in a plane wave expansion 
+Compute 3-point correlation functions for galaxy WL convergence in a plane wave expansion. Uses Halo model, SPT ot EFT.
 
-Details will be filled when the paper is released. 
+More details will be filled out when the paper is released. 
 
 Add the path to FFTw routines in the MakeFile.
 
