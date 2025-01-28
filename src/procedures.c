@@ -147,12 +147,15 @@ void Bm(double chi, double z, double Dp, double r_sigma, double n_eff)
 	int NumMoments=cmd.mMax+1;
 	double val[NumMoments];
 	double EFTctr;
+	double alphaEFT;
 	
 	xGL = malloc(cmd.GLpoints * sizeof(double));
 	wGL = malloc(cmd.GLpoints * sizeof(double));	
 	gaussleg(-m_PI, m_PI, xGL, wGL, cmd.GLpoints);
 
-	EFTctr=-3.0*pow(Dp,2);	
+	alphaEFT=-3.0;  // =cmd.alphaEFT
+
+	EFTctr=alphaEFT*pow(Dp,2);	
 
 	
 	for(int i=0; i<iv.Nell; i++){
