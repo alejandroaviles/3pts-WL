@@ -50,7 +50,7 @@ void InputParams()
 	
 	cmd.chatty = 2;
 	//~ cmd.tree_level = 2;  // = 1 uses only second order PT
-	cmd.prefix = "Takaz05078_ctrminus3_";	
+	cmd.prefix = "run1_";	
 	cmd.path_Bells = "Bell_outputs";
 	cmd.tree_level = 3;  // = 1 second order PT
 						 // = 2 : B=pk^
