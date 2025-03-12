@@ -3,7 +3,6 @@ Compute 3-point correlation functions for galaxy WL convergence in a plane wave 
 
 Paper available at [(https://arxiv.org/abs/2408.16847)](https://arxiv.org/abs/2408.16847). 
 
-Add the path to FFTw routines in the MakeFile.
 
 This code uses the 
 
