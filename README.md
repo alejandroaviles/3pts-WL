@@ -12,9 +12,11 @@ This code uses the
 
 ## Authors: 
 
-- Alejandro Aviles (ICF-UNAM, Mexico), avilescervantes@gmail.com
+- Alejandro Aviles (ICF-UNAM, Mexico), avilescervantes@gmail.com, aviles@icf.unam.mx
 
 
+## Acknowledgements: 
 
+- I acknowledges support by grants UNAM PAPIIT IA101825 and SECIHTI CBF2023-2024-162.
 
 
