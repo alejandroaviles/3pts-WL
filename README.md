@@ -17,6 +17,6 @@ This code uses the
 
 ## Acknowledgements: 
 
-- I acknowledges support by grants UNAM PAPIIT IA101825 and SECIHTI CBF2023-2024-162.
+- Alejandro Aviles acknowledges support by grants UNAM PAPIIT IA101825 and SECIHTI CBF2023-2024-162.
 
 
